@@ -99,9 +99,7 @@ Yeni bir uygulama geliştirmeden Excel üzerinden veri yönetimi yapabilirsiniz.
 | ---------------------------- | ------------------------ |
 | sql.xlam                     | Excel eklentisi          |
 | yukle.bat                    | Otomatik kurulum         |
-| docs/banner.png              | Kapak görseli            |
-| docs/sql.png                 | SQL örnekleri            |
-| docs/2026-06-16_23-37-38.png | Uygulama ekran görüntüsü |
+
 
 ---
 
